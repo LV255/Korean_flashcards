@@ -1,4 +1,4 @@
-## Project Name: Korean flashcards
+## Project Name: Korean Flashcards
 You can choose to study Korean numbers, dates and key phrases and then choose to view English or Korean first.
 
 ## Motivation
